@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: anastasiia.radchuk
+Build-Jdk: 11.0.9
+Implementation-Title: periodicals
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ua.lviv.lgs
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/periodicals
+Created-By: Maven Integration for Eclipse
+
